@@ -1,5 +1,6 @@
-### Hi there 👋
+# Samantha Samosir | Developer and Teacher 
 
+I'm Samantha from Indonesia. I'm a passionate developer and teacher with a love for coding and sharing knowledge. My journey in the world of technology has been an exciting one, and I'm constantly learning and exploring new technologies. 
 <!--
 **SamanthaSamosir/samanthasamosir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
