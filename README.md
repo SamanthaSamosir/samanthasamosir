@@ -1,4 +1,4 @@
-# Hi there, I'm Samantha Meliora! 👋
+# Hi there, I'm Samantha! 👋
 
 I'm a developer and teacher with a love for coding and sharing knowledge. My journey in the world of technology has been an exciting one, and I'm constantly learning and exploring new technologies.
 
